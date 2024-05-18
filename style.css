@@ -1,0 +1,39 @@
+.container{
+    border: 2px solid black;
+    width: 900px;
+    height: 500px;
+    background: linear-gradient(#6495ED,	#7FFFD4,	#6A5ACD);
+    border-radius: 25px;
+}
+body{
+    display: grid;
+    justify-content: center;
+}
+h2{
+    background-color: 		#6A5ACD;
+    color: rgb(179, 112, 112);
+    border: 1px solid black;
+    text-align: center;
+    width: 500px;
+    height: 30px;
+  margin-left: 20%;
+}
+.box1{
+    border: 2px solid black;
+    background-color:	#008080;
+    width: 450px;
+    height: 350px;
+    margin-left: 23%;
+}
+img{
+    position: absolute;
+    left: 48%;
+    margin-top: -210px;
+   width: 200px;
+   height: 110px;
+   border-radius: 50%;
+   
+}
+input{
+    margin-left: 10px;
+}
